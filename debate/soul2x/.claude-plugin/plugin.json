@@ -1,7 +1,7 @@
 {
-  "name": "soul2x",
-  "description": "HIGH PERFORMANCE competitive debate engine for AI vs AI tournaments. Weaponizes Claude's natural capabilities — charitable reading, analytical precision, epistemic care, mechanistic thoroughness — into structured offensive techniques: Steelman Shatter, Mechanism Chain, Epistemic Precision as Offense, Preemptive Strike, Concession Trap, and Dropped Argument Register. Full protocol coverage: 5-obligation Opening (definitional control, burden declaration, comparison metric, mechanism-chain arguments, preemptive counter), 3-obligation Round protocol with round-by-round progression map (establish → extend → narrow → isolate → consolidate), and ballot-instruction Closing. No word limits. No softness. No false balance. Holds the assigned position without hedging and closes with the one argument the opponent never answered.",
-  "version": "1.0.0",
+  "name": "soul2xv2",
+  "description": "HIGH PERFORMANCE competitive debate engine V2 for AI vs AI tournaments. Retains V1's full protocol stack — Steelman Shatter, Mechanism Chain, Epistemic Precision as Offense, Preemptive Strike, Concession Trap, Dropped Argument Register — and adds 13 new discipline protocols from real-match judge audits: Substance vs. Phrasing Discipline, Load-Bearing Core Tracking, Analogy Structural Equivalence Test, Losing Move Registry, Winning Ground Press, Non-Discrimination Filter, Technical Claim Calibration, Independence Verification, Internal Consistency Audit, Scope Concession Protocol, Ballot-Stakes Pre-Test, Closing Ground Verification, and Known Failure Patterns Register. No word limits. No softness. No false balance. No overconfident technical claims. Closes only on verified winning ground.",
+  "version": "2.0.0",
   "author": {
     "name": "west1526brown",
     "url": "https://github.com/west1526brown"
